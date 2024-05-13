@@ -1,6 +1,6 @@
 # ToDo App
 <br>
-Canlı Linki: https://todo-app-rho-flame.vercel.app/
+<h4 align="left">Proje Canlı Linki:</h4> https://todo-app-rho-flame.vercel.app/
 <br>
 Kullanılan Teknolojiler : HTML, CSS, JavaScript
 <br>
